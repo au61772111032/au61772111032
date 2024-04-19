@@ -1,0 +1,7 @@
+echo "# au61772111032" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/au61772111032/au61772111032.git
+git push -u origin mai
